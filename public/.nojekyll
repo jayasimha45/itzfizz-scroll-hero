@@ -1,0 +1,2 @@
+# GitHub Pages must not run Jekyll over the build output, or it drops folders
+# whose names begin with an underscore.
