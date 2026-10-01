@@ -6,11 +6,11 @@ A premium scroll-driven hero that recreates the *Paraschaturvedi car-scroll-anim
 
 ## Live Demo
 
-[YOUR_LIVE_DEMO_URL](YOUR_LIVE_DEMO_URL)
+https://jayasimha45.github.io/itzfizz-scroll-hero/
 
 ## GitHub Repository
 
-[YOUR_GITHUB_REPOSITORY_URL](YOUR_GITHUB_REPOSITORY_URL)
+https://github.com/jayasimha45/itzfizz-scroll-hero
 
 ## Getting Started
 
